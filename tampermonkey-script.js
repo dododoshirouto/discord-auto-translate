@@ -9,6 +9,6 @@
 // @grant        none
 // ==/UserScript==
 
-function tm-init() {
+function tm_init() {
     
 }
